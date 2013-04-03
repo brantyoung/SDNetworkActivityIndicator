@@ -13,7 +13,7 @@
  * .pch file of the project. 
  */
 #ifdef SDNetworkActivityIndicatorAFNetworkSupport
-#import "AFNetworkActivityIndicatorManager.h"
+#import <RestKit/AFNetworkActivityIndicatorManager.h>
 #endif
 
 
